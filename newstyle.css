@@ -6,4 +6,6 @@ th{color:green;
 }
 td{padding:10px;
    border: 1px solid black;
+   background-color:purple;
+   text-align: center;
 }
